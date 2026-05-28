@@ -2,7 +2,7 @@
 const takipciler = [
    {
     kullanici: "anil_cemal_mike_tyson",
-    profil: "https://imgur.com/a/DgIu6ii"
+    profil: "https://imgur.com/a/DgIu6ii
 },
 ];
 
