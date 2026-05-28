@@ -1,13 +1,6 @@
 // 🔥 BURAYA EKLEYECEKSİN
 const takipciler = [
-    {
-        kullanici: "yusuf",
-        profil: "https://i.pravatar.cc/100?img=1"
-    },
-    {
-        kullanici: "ahmet",
-        profil: "https://i.pravatar.cc/100?img=2"
-    }
+   
 ];
 
 // GÖSTER
